@@ -41,3 +41,7 @@ My name is Damian Maryniak. I graduated from University of Wrocław. Recently I 
 * [Test scenario #3 for site Filmweb.pl](https://drive.google.com/file/d/1D7AtCOjmawB7fLPBTJWbsX8dceYP2OuY/view?usp=sharing)
 * [Test scenario #4 for site Filmweb.pl](https://drive.google.com/file/d/1mlxuoTWxcxs9TZesdyk36pc-ZudpGO-e/view?usp=sharing)
 
+## My automated tests in Katalon Recorder 
+* [Filmweb registration - automated tests for site Filmweb.pl](https://drive.google.com/file/d/12bCaIjNYni0itBr5akG_jTOyYtMSx2VY/view?usp=sharing)
+* [Filmweb login - automated tests for site Filmweb.pl](https://drive.google.com/file/d/1GifLzv4F1Fct4-ITZQiHgt-qNvSPGAtg/view?usp=sharing)
+
